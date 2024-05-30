@@ -1,0 +1,14 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "My first blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Mahadeva Sankaram Telidevara",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
